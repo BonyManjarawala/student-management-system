@@ -27,4 +27,4 @@ DELETE
 # Screenshot
 <a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots"></a>
 
-<a href="https://github.com/BonyManjarawala/Heroku-Student-app/tree/main/Student/Postman"> Click Here</a>
+<a href="https://github.com/BonyManjarawala/student-management-system/tree/main/Postman"> Click Here</a>
